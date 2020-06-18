@@ -1,9 +1,9 @@
-hello this is my second project so far
+Hello this is my second project so far.
 
-it is a survey form page
+It is a survey form page.
 
-you see this live project here:
+You see this live project here:
 
  https://ahmedd24.github.io/Survey_form_page/
 
- thanks for reading!
+ Thanks for reading!
