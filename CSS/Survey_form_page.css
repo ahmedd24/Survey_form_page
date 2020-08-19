@@ -1,9 +1,11 @@
 body {
-  background-color: powderblue;
+  background-color: #8BD2FF;
+  text-align: center;
+  text-color: #2B4DFE;
 }
 h1 {
-  color: blue;
+  color: #2B4DFE;
 }
 p {
-  color: red;
+  color: #2B4DFE;
 }
