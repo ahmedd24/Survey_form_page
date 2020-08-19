@@ -1,8 +1,9 @@
-.text-center{
-  text-align: center;
-}
-
 body {
-  font-family: sans-serif;
-  background-color: blue;
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
 }
